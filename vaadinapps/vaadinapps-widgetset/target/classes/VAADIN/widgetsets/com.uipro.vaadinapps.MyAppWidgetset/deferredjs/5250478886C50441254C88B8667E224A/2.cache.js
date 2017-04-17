@@ -1,0 +1,1 @@
+$wnd.com_uipro_vaadinapps_MyAppWidgetset.runAsyncCallback2('c0b(1739,1,Rjh);_.Igb=function W8d(){this.Jgb(this.b)};_.Jgb=function X8d(a){this.Kgb(a)};_.Kgb=function Y8d(a){};_.Hf=function $8d(){this.Igb();N3g.nHd().P7(this.a.Oc())};B2g(Fs)(2);\n//# sourceURL=com.uipro.vaadinapps.MyAppWidgetset-2.js\n')
